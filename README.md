@@ -1,16 +1,16 @@
-# Pre-work - *Name of App Here*
+# Tip Calculator
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Jonathan Naraja**
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [√] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -33,11 +33,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I noticed that the text field and labels for this application appear different when changing the devices. In order to
+make this application a better product for future consumers/users, I need to add leading, trailing, top, and bottom 
+spacing to safe area
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Jonathan Naraja]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
